@@ -8,6 +8,8 @@ This project uses [Feathers](http://feathersjs.com). An open source web framewor
 
 It's calling Deezer API `https://developers.deezer.com/api`
 
+Can play with hosted version here `https://musicdb-api.herokuapp.com/search?q=random`
+
 ## Getting Started
 
 Getting up and running is as easy as 1, 2, 3.
