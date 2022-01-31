@@ -6,6 +6,8 @@
 
 This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
 
+It's calling Deezer API `https://developers.deezer.com/api`
+
 ## Getting Started
 
 Getting up and running is as easy as 1, 2, 3.
